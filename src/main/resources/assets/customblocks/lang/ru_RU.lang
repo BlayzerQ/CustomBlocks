@@ -1,0 +1,39 @@
+item.CustomItem.name=Custom Item
+
+tile.CustomBlock.name=Custom Block
+
+tile.CustomBlockModel.name=Custom Model Block
+
+tile.CustomBlockMulti.name=Custom Block
+
+tile.CustomBlockWeb.name=Web Block
+
+tile.CustomBlockRail.name=Custom Rail
+
+tile.CustomBlockLadder.name=Custom Ladder
+
+tile.CustomBlockFence.name=Custom Fence
+
+item.SteelHelmet.name=Steel Helmet
+item.SteelChest.name=Steel Chestplate
+item.SteelLeggins.name=Steel Leggins
+item.SteelBoots.name=Steel Boots
+
+item.DiamondHelmet.name=Diamond Helmet
+item.DiamondChest.name=Diamond Chestplate
+item.DiamondLeggins.name=Diamond Leggins
+item.DiamondBoots.name=Diamond Boots
+
+item.SteelSword.name=Steel Sword
+item.AmethystSword.name=Amethyst Sword
+
+itemGroup.CustomBlocks=Custom Blocks
+itemGroup.CustomBlocksMulti=Custom Multitextured Blocks
+itemGroup.CustomBlocksItems=Custom Items
+itemGroup.CustomBlocksWebs=Custom Webs
+itemGroup.CustomBlocksLadders=Custom Ladders
+itemGroup.CustomBlocksRails=Custom Rails
+itemGroup.CustomBlocksFences=Custom Fences
+itemGroup.CustomBlocksModels=Custom Blocks with Models
+itemGroup.CustomBlocksArmor=Custom Armors
+itemGroup.CustomBlocksSwords=Custom Weapon

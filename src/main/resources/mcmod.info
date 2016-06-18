@@ -1,0 +1,16 @@
+[
+{
+  "modid": "customblocks",
+  "name": "CustomBlocks",
+  "description": "CustomBlocks special for KvidoomRPG - FineMine.RU",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Blayzer"],
+  "credits": "Blayzer",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
